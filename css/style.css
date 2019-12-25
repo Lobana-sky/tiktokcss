@@ -28,9 +28,61 @@ nav li{
 .slogan{
     text-align:center;
 }
-.slogan h1{
-    font-size:150px;S
+.slogan h2{
+    font-size:60px;
 }
 .video img{
     width:100%;
+}
+footer{
+    background-color:black;
+    color:white;
+}
+footer a{
+    text-decoration:none;
+    color:white;
+}
+footer ul{
+    list-style:none;
+}
+
+#lists
+{
+    display:flex;
+    justify-content:space-around;
+    font-size: 15px;
+}
+#lists img{
+    width:120px;
+}
+#lists li{
+    padding:3px 0;
+    
+}
+.download{
+    display:flex;
+    justify-content:space-around;
+    
+}
+.download h2{
+    font-size:20px;
+}
+.download p{
+    font-size:10px;
+}
+.download img{
+    width:450px;
+}
+.stores img{
+    width:150px;
+}
+.stores , .downLink{
+    margin:0 auto;
+    display:inline-block;
+    text-align:center;
+}
+.copyRights{
+    padding:20px;
+text-align:right;
+font-size :8px;
 }
