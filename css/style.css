@@ -1,0 +1,36 @@
+.leftNav{
+    float:left;
+   
+}
+.leftNav img{
+    width:200px;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content:space-around;
+}
+nav a{
+    text-decoration: none;
+    color:black;
+}
+nav li{
+    padding:10px;
+}
+.clear{
+    clear:both;
+}
+.slogan{
+    text-align:center;
+}
+.slogan h1{
+    font-size:150px;S
+}
+.video img{
+    width:100%;
+}
